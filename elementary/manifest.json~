@@ -1,0 +1,36 @@
+{
+   "name": "elementary chrome",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 80, 80, 80 ],
+         "frame": [ 214, 214, 214 ],
+         "frame_inactive": [ 214, 214, 214 ],
+         "frame_background": [ 214, 214, 214 ],
+	 "ntp_background" : [ 242, 242, 242 ],
+         "ntp_header": [ 172, 186, 199 ],
+         "ntp_link": [ 80, 80, 80 ],
+         "ntp_section": [ 180, 180, 180, 0.7 ],
+         "ntp_section_link": [ 80, 80, 80 ],
+         "ntp_section_text": [ 80, 80, 80 ],
+         "ntp_text": [ 80, 80, 80 ],
+         "tab_background_text": [ 80, 80, 80 ],
+         "tab_text": [ 80, 80, 80 ],
+         "toolbar": [ 191, 191, 191 ]
+      },
+      "images": {
+       "theme_frame": "Image/theme_frame.png",
+       "theme_frame_inactive": "Image/theme_frame.png",
+         "theme_tab_background": "Image/theme_tab_background.png",
+         "theme_toolbar": "Image/theme_toolbar.png",
+      },
+      "properties": {
+         "ntp_logo_alternate": 1
+      },
+      "tints": {
+         "buttons": [ 0.58, 0.3, 0.5 ],
+         "frame_inactive": [ -1.0, -1.0, -1.0]
+      }
+   },
+   "version": "0.1"
+}
+
